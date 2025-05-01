@@ -59,24 +59,24 @@ podlog -n <namespace> -p <pod-name>
 1. Show all logs:
 
    ```bash
-   podlog -n stag-2 -p health-api-7d964ff5d9-8tf7x -a
+   podlog -n stag-2 -p <pod name> -a
    ```
 
 2. Search for specific text:
 
    ```bash
-   podlog -n stag-2 -p health-api-7d964ff5d9-8tf7x -a -s "search term"
+   podlog -n stag-2 -p <pod name> -a -s "search term"
    ```
 
 3. Search for multiple terms:
 
    ```bash
-   podlog -n stag-2 -p health-api-7d964ff5d9-8tf7x -a -s "term1,term2"
+   podlog -n stag-2 -p <pod name> -a -s "term1,term2"
    ```
 
 4. Follow logs while searching:
    ```bash
-   podlog -n stag-2 -p health-api-7d964ff5d9-8tf7x -a -s "search term" -f
+   podlog -n stag-2 -p <pod name> -a -s "search term" -f
    ```
 
 ## Contributing
