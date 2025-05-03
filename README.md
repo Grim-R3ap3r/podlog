@@ -1,4 +1,11 @@
 # Podlog
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg?style=for-the-badge)](http://shields.io/)
+
+
 
 A modern CLI tool for viewing Kubernetes pod logs with beautiful formatting and powerful search capabilities.
 
@@ -92,3 +99,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Created by [@Grim-R3ap3r](https://github.com/Grim-R3ap3r)
 - Inspired by the need for better Kubernetes log viewing tools
 - Built with ❤️ for developers
+
+- [contributors-shield]: https://img.shields.io/github/contributors/Grim-R3ap3r/podlog.svg?style=for-the-badge
+[contributors-url]:  https://github.com/Grim-R3ap3r/podlog/graphs/contributors
+[forks-shield]: 	https://img.shields.io/github/forks/Grim-R3ap3r/podlog.svg?style=for-the-badge
+[forks-url]: https://github.com/Grim-R3ap3r/podlog/
+[stars-shield]: https://img.shields.io/github/stars/Grim-R3ap3r/podlog.svg?style=for-the-badge
+[stars-url]:  https://github.com/Grim-R3ap3r/podlog/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Grim-R3ap3r/podlog.svg?style=for-the-badge
+[issues-url]: https://github.com/Grim-R3ap3r/podlog/issues
+[license-shield]: https://img.shields.io/github/license/tiwariadarsh/StreamEzy?style=for-the-badge
+[license-url]: https://github.com/Grim-R3ap3r/podlog/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
