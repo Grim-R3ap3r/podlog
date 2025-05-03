@@ -9,7 +9,7 @@
 
 A modern CLI tool for viewing Kubernetes pod logs with beautiful formatting and powerful search capabilities.
 
-![image](https://github.com/user-attachments/assets/fc3140f6-c66e-4bda-97f0-52a052d7c9c7)
+<img width="1512" alt="image_blurred2" src="https://github.com/user-attachments/assets/d8773771-98bb-43fb-b182-7fee7f67b034" />
 
 
 ## Features
