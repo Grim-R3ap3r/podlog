@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by the need for better Kubernetes log viewing tools
 - Built with ❤️ for developers
 
-- [contributors-shield]: https://img.shields.io/github/contributors/Grim-R3ap3r/podlog.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Grim-R3ap3r/podlog.svg?style=for-the-badge
 [contributors-url]:  https://github.com/Grim-R3ap3r/podlog/graphs/contributors
 [forks-shield]: 	https://img.shields.io/github/forks/Grim-R3ap3r/podlog.svg?style=for-the-badge
 [forks-url]: https://github.com/Grim-R3ap3r/podlog/
